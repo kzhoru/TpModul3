@@ -1,0 +1,10 @@
+C:\Users\adrian\source\repos\TpMod3\TpMod3\bin\Debug\TpMod3.exe.config
+C:\Users\adrian\source\repos\TpMod3\TpMod3\bin\Debug\TpMod3.exe
+C:\Users\adrian\source\repos\TpMod3\TpMod3\bin\Debug\TpMod3.pdb
+C:\Users\adrian\source\repos\TpMod3\TpMod3\obj\Debug\TpMod3.csproj.AssemblyReference.cache
+C:\Users\adrian\source\repos\TpMod3\TpMod3\obj\Debug\TpMod3.Form1.resources
+C:\Users\adrian\source\repos\TpMod3\TpMod3\obj\Debug\TpMod3.Properties.Resources.resources
+C:\Users\adrian\source\repos\TpMod3\TpMod3\obj\Debug\TpMod3.csproj.GenerateResource.cache
+C:\Users\adrian\source\repos\TpMod3\TpMod3\obj\Debug\TpMod3.csproj.CoreCompileInputs.cache
+C:\Users\adrian\source\repos\TpMod3\TpMod3\obj\Debug\TpMod3.exe
+C:\Users\adrian\source\repos\TpMod3\TpMod3\obj\Debug\TpMod3.pdb
